@@ -46,4 +46,4 @@ okta:
   oauth2:
     issuer: https://dev-qto26fy1yffv37sa.us.auth0.com/
     client-id:
-    client-secret: 
+    client-secret:
